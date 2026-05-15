@@ -1,2 +1,3 @@
 # testrepo
-just a test repo
+Its a test repo file
+created for tutorial
